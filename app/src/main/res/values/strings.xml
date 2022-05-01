@@ -1,0 +1,82 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Module 4</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="nav_header_title">Charles Phandurand</string>
+    <string name="nav_header_subtitle">2010817110006@mhs.ulm.ac.id</string>
+    <string name="nav_header_desc">Navigation Header</string>
+    <string name="action_settings">Changes Language</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_herbivora">Herbivore</string>
+    <string name="menu_karnivora">Carnivore</string>
+    <string name="menu_omnivora">Omnivore</string>
+    <string name="switch_layout">Switch Layout</string>
+
+    <string name="herbivora1">Rabbit</string>
+    <string name="herbivora2">Hamster</string>
+    <string name="herbivora3">Zebra</string>
+    <string name="herbivora4">Cow</string>
+    <string name="herbivora5">Deer</string>
+    <string name="herbivora6">Buffalo</string>
+    <string name="herbivora7">Goat</string>
+    <string name="herbivora8">Elephant</string>
+    <string name="herbivora9">Camel</string>
+    <string name="herbivora10">Giraffe</string>
+
+    <string name="karnivora1">Polar Bear</string>
+    <string name="karnivora2">Cat</string>
+    <string name="karnivora3">Penguin</string>
+    <string name="karnivora4">Wolf</string>
+    <string name="karnivora5">Tiger</string>
+    <string name="karnivora6">Eagle</string>
+    <string name="karnivora7">Crocodile</string>
+    <string name="karnivora8">Snake</string>
+    <string name="karnivora9">Lion</string>
+    <string name="karnivora10">Komodo Dragon</string>
+
+    <string name="omnivora1">Chicken</string>
+    <string name="omnivora2">Duck</string>
+    <string name="omnivora3">Pig</string>
+    <string name="omnivora4">Mouse</string>
+    <string name="omnivora5">Squirrel</string>
+    <string name="omnivora6">Monkey</string>
+    <string name="omnivora7">Turtle</string>
+    <string name="omnivora8">Hedgehog</string>
+    <string name="omnivora9">Skunk</string>
+    <string name="omnivora10">Bat</string>
+
+    <string name="deskripsi1">Rabbits are mammals from the family Leporidae, which can be found in many parts of the earth. Rabbits reproduce by giving birth which is called viviparity. Previously, this animal was a wild animal that lived in Africa to mainland Europe.</string>
+    <string name="deskripsi2">Hamster is a kind of rodent animal, there are various types in the world and almost in every country. Despite their small body, hamsters need a spacious cage. Hamster is included in the cricetinae sub family.</string>
+    <string name="deskripsi3">Zebra is an animal from Africa known for its black-and-white striped body. There are three extant species: the grévy zebra, the plains zebra and the mountain zebra. Zebras are part of the genus Equus as are horses and donkeys.</string>
+    <string name="deskripsi4">Cows or oxen are livestock members of the Bovidae family and the Bovinae subfamily. Cows are raised mainly for the use of milk and meat as human food. By-products such as skin, offal, horns, and feces are also used for various human purposes.</string>
+    <string name="deskripsi5">Deer, sambar, or deer are ruminant mammals belonging to the family Cervidae. One of the hallmarks of deer is the presence of antlers, and not antlers, which are bony growths that develop every year especially in male deer.</string>
+    <string name="deskripsi6">Buffalo, or commonly called water buffalo, is a ruminant animal that becomes livestock for many peoples in the world, especially Asia.</string>
+    <string name="deskripsi7">Cattle goats are one of the subspecies of goats that are kept or domesticated from wild goats in Southwest Asia and Eastern Europe. Goats are members of the Bovidae family and are brothers to sheep because they belong to the subfamily Caprinae.</string>
+    <string name="deskripsi8">Elephants are large mammals from the family Elephantidae and the order Proboscidea. Traditionally, there have been two recognized species, the African elephant and the Asian elephant, although some evidence suggests that the African bush elephant and African forest elephant are distinct species.</string>
+    <string name="deskripsi9">Camels are two species of even-toed ungulates of the genus Camelus that live in arid and desert regions of Asia and North Africa. The average life expectancy of a camel is between 30 and 50 years. The domestication of camels by humans has been around since about 5,000 years ago.</string>
+    <string name="deskripsi10">The giraffe or zarafah is an even-toed ungulate mammal endemic to Africa and the tallest animal species living on land. Male giraffes can reach a height of 4.8 to 5.5 meters and can weigh up to 1,360 kilograms. Female giraffes are usually slightly shorter and lighter.</string>
+    <string name="deskripsi11">The polar bear or ice bear or in its scientific name Ursus maritimeus is a large mammal in the biological family Ursidae. It belongs to the circumpolar species found around the northernmost continent of the earth, namely the Arctic continent and is the most carnivorous bear among other bear families.</string>
+    <string name="deskripsi12">Cats, also known as domestic cats or house cats, are a type of carnivorous mammal from the Felidae family. The word "cat" usually refers to a "cat" that has been tamed, but can also refer to "big cats" such as lions and tigers.</string>
+    <string name="deskripsi13">Penguins are aquatic animals that can not fly and generally live in the southern hemisphere. Worldwide there are 16 species of penguins depending on whether two Eudyptula species are counted as species.</string>
+    <string name="deskripsi14">Wolves are carnivorous mammals. The gray wolf shares a common origin with the foreign dog of the Canis lupus family through DNA sequencing evidence and genetic investigations.</string>
+    <string name="deskripsi15">The tiger is the largest living cat species of the genus Panthera. Tigers have distinctive stripes on their fur, in the form of dark vertical stripes on orange fur, with white undersides. Tigers are apex predators, they mainly prey on ungulates such as deer and wild boars.</string>
+    <string name="deskripsi16">The eagle is one of the animals found throughout Indonesia. In English, eagle or eagle refers to large birds of prey from the Accipitridae tribe, especially the Aquila genus. Meanwhile, the smaller birds of prey in the Indonesian Bird List number 2 are called Elang-alap.</string>
+    <string name="deskripsi17">Crocodiles are large reptiles that live in water. Scientifically, crocodiles include all species of members of the tribe Crocodylidae, including the crocodile finches. However, this name can also be used loosely to refer to the alligator, kaiman and gavial \'crocodile\'; namely the crocodile relatives of different tribes.</string>
+    <string name="deskripsi18">Snakes are a group of legless and long-bodied reptiles that are widely distributed in the world. Scientifically, all types of snakes are grouped in one sub-order, namely Serpentes and are also members of the order Squamata along with lizards.</string>
+    <string name="deskripsi19">The lion is a species of animal from the Felidae family or cat breed. Lions are on the African continent and partly in the territory of India. Lions are animals that live in groups. Usually consists of a male &amp; many females. This group guards their territory.</string>
+    <string name="deskripsi20">Komodo or the full Komodo dragon, is a large monitor lizard species found on the islands of Komodo, Rinca, Flores, Gili Motang, and Gili Dasami in the province of East Nusa Tenggara, Indonesia. This lizard by the natives of the island of Komodo is also called by the local name ora.</string>
+    <string name="deskripsi21">Chickens are poultry that are usually kept by people to be used for the needs of the keeper\'s life. Pet chickens are direct descendants of a subspecies of jungle fowl known as red jungle fowl or bangkiwa chickens. All chickens were theropods like tyrannosaurs.</string>
+    <string name="deskripsi22">Duck or duck is the common name for several species of birds in the family Anatidae. Ducks are generally aquatic birds that are mostly smaller than their relatives, short-necked geese and geese, and can be found in both fresh water and sea water.</string>
+    <string name="deskripsi23">The pig is a type of ungulate animal that has a long snout and a slim nose and is an animal that originally came from Eurasia. Pigs are omnivores which means they eat both meat and plants.</string>
+    <string name="deskripsi24">Rats are a member of the rodent family of the order Rodentia. The best known rat species are the mouse and the sewer rat which are found in almost all countries and are an important model organism in biology; It is also a popular pet.</string>
+    <string name="deskripsi25">Squirrels are a class of small mammals that are similar to, and often confused with, squirrels. Scientifically, squirrels are not the same and far from the squirrel family.</string>
+    <string name="deskripsi26">Monkey is a term for all members of primates who are not prosimians or apes, whether living in the Old World or the New World. Until now, there are 264 types of monkeys that live in the world. Unlike apes, monkeys usually have tails and are smaller in size.</string>
+    <string name="deskripsi27">Turtles are four-legged scaly animals that belong to the reptile class. This breed of animals called Testudines is unique and easily recognizable by the presence of a hard and stiff \'house\' or shell. This turtle shell consists of two parts.</string>
+    <string name="deskripsi28">Hedgehogs are rodents that have thick hair and sharp spines. These animals are found in Asia, Africa, and America, and tend to spread in the tropics. The hedgehog is the third largest rodent in terms of body size, after the capybara and the beaver.</string>
+    <string name="deskripsi29">Skunks are mammals that have black and white fur. Skunks are a solitary animal that looks for prey at night. From morning to evening, skunks prefer to hide in dark places such as caves. Its habitat is in secondary forests at an altitude of up to 2000 meters above sea level.</string>
+    <string name="deskripsi30">Bats are the only mammals that can fly, and belong to the order Chiroptera with both forelegs that develop into wings.</string>
+
+    <string name="welcome">Welcome to Animals List Apps</string>
+    <string name="label_hewan">Animal Details</string>
+</resources>

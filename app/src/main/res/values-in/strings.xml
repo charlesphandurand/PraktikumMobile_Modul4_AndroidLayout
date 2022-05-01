@@ -1,0 +1,82 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Modul 4</string>
+    <string name="navigation_drawer_open">Buka Panel Navigasi</string>
+    <string name="navigation_drawer_close">Tutup Panel Navigasi</string>
+    <string name="nav_header_title">Charles Phandurand</string>
+    <string name="nav_header_subtitle">2010817110006@mhs.ulm.ac.id</string>
+    <string name="nav_header_desc">Tajuk Navigasi</string>
+    <string name="action_settings">Ubah Bahasa</string>
+
+    <string name="menu_home">Beranda</string>
+    <string name="menu_herbivora">Herbivora</string>
+    <string name="menu_karnivora">Karnivora</string>
+    <string name="menu_omnivora">Omnivora</string>
+    <string name="switch_layout">Beralih Tata Letak</string>
+
+    <string name="herbivora1">Kelinci</string>
+    <string name="herbivora2">Hamster</string>
+    <string name="herbivora3">Zebra</string>
+    <string name="herbivora4">Sapi</string>
+    <string name="herbivora5">Rusa</string>
+    <string name="herbivora6">Kerbau</string>
+    <string name="herbivora7">Kambing</string>
+    <string name="herbivora8">Gajah</string>
+    <string name="herbivora9">Unta</string>
+    <string name="herbivora10">Jerapah</string>
+
+    <string name="karnivora1">Beruang Kutub</string>
+    <string name="karnivora2">Kucing</string>
+    <string name="karnivora3">Pinguin</string>
+    <string name="karnivora4">Serigala</string>
+    <string name="karnivora5">Harimau</string>
+    <string name="karnivora6">Elang</string>
+    <string name="karnivora7">Buaya</string>
+    <string name="karnivora8">Ular</string>
+    <string name="karnivora9">Singa</string>
+    <string name="karnivora10">Komodo</string>
+
+    <string name="omnivora1">Ayam</string>
+    <string name="omnivora2">Bebek</string>
+    <string name="omnivora3">Babi</string>
+    <string name="omnivora4">Tikus</string>
+    <string name="omnivora5">Tupai</string>
+    <string name="omnivora6">Monyet</string>
+    <string name="omnivora7">Kura-kura</string>
+    <string name="omnivora8">Landak</string>
+    <string name="omnivora9">Sigung</string>
+    <string name="omnivora10">Kelelawar</string>
+
+    <string name="deskripsi1">Kelinci adalah hewan mamalia dari famili Leporidae, yang dapat ditemukan di banyak bagian bumi. Kelinci berkembang biak dengan cara beranak yang disebut vivipar. Dulunya, hewan ini adalah hewan liar yang hidup di Afrika hingga ke daratan Eropa.</string>
+    <string name="deskripsi2">Hamster adalah binatang sejenis hewan pengerat, terdapat berbagai jenis di dunia dan hampir ada di tiap negara. Walaupun tubuhnya kecil, hamster membutuhkan kandang yang luas. Hamster termasuk ke dalam subfamili Cricetinae.</string>
+    <string name="deskripsi3">Zebra adalah hewan dari Afrika yang dikenal akan tubuhnya yang berbelang hitam-putih. Terdapat tiga spesies yang masih ada saat ini, yaitu zebra grévy, zebra dataran, dan zebra gunung. Zebra merupakan bagian dari genus Equus seperti halnya kuda dan keledai.</string>
+    <string name="deskripsi4">Sapi atau lembu adalah hewan ternak anggota famili Bovidae dan subfamili Bovinae. Sapi dipelihara terutama untuk dimanfaatkan susu dan dagingnya sebagai pangan manusia. Hasil sampingannya seperti kulit, jeroan, tanduk, dan kotorannya juga dimanfaatkan untuk berbagai keperluan manusia.</string>
+    <string name="deskripsi5">Rusa, sambar, atau menjangan adalah hewan mamalia pemamah biak yang termasuk famili Cervidae. Salah satu ciri khas rusa adalah adanya antler, dan bukan tanduk, yang merupakan pertumbuhan tulang yang berkembang setiap tahun terutama pada rusa jantan.</string>
+    <string name="deskripsi6">Kerbau, atau biasa disebut kerbau air, adalah binatang memamah biak yang menjadi ternak bagi banyak bangsa di dunia, terutama Asia.</string>
+    <string name="deskripsi7">Kambing ternak merupakan salah satu subspesies kambing yang dipelihara atau dijinakkan dari kambing liar Asia Barat Daya dan Eropa Timur. Kambing merupakan anggota dari keluarga Bovidae dan bersaudara dengan biri-biri karena keduanya tergolong dalam sub famili Caprinae.</string>
+    <string name="deskripsi8">Gajah adalah mamalia besar dari famili Elephantidae dan ordo Proboscidea. Secara tradisional, terdapat dua spesies yang diakui, yaitu gajah afrika dan gajah asia, walaupun beberapa bukti menunjukkan bahwa gajah semak afrika dan gajah hutan afrika merupakan spesies yang berbeda.</string>
+    <string name="deskripsi9">Unta adalah dua spesies hewan berkuku genap dari genus Camelus yang hidup ditemukan di wilayah kering dan gurun di Asia dan Afrika Utara. Rata-rata umur harapan hidup unta adalah antara 30 sampai 50 tahun. Domestikasi unta oleh manusia telah dimulai sejak kurang lebih 5.000 tahun yang lalu.</string>
+    <string name="deskripsi10">Jerapah atau zarafah adalah mamalia berkuku genap endemik Afrika dan merupakan spesies hewan tertinggi yang hidup di darat. Jerapah jantan dapat mencapai tinggi 4,8 sampai 5,5 meter dan memiliki berat yang dapat mencapai 1.360 kilogram. Jerapah betina biasanya sedikit lebih pendek dan lebih ringan.</string>
+    <string name="deskripsi11">Beruang kutub atau beruang es atau dalam nama ilmiahnya Ursus maritimus adalah mamalia besar dalam marga keluarga biologi Ursidae. Ia termasuk spesies circumpolar yang terdapat di sekitar benua paling utara bumi, yaitu benua Artik dan termasuk beruang paling karnivora di antara keluarga beruang lainnya.</string>
+    <string name="deskripsi12">Kucing disebut juga kucing domestik atau kucing rumah adalah sejenis mamalia karnivora dari keluarga Felidae. Kata "kucing" biasanya merujuk kepada "kucing" yang telah dijinakkan, tetapi bisa juga merujuk kepada "kucing besar" seperti singa dan harimau.</string>
+    <string name="deskripsi13">Pinguin adalah hewan akuatik jenis burung yang tidak bisa terbang dan secara umum hidup di belahan Bumi selatan. Di seluruh dunia terdapat 16 spesies penguin tergantung pada apakah dua spesies Eudyptula dihitung juga sebagai spesies.</string>
+    <string name="deskripsi14">Serigala adalah binatang mamalia karnivora. Serigala abu-abu mempunyai asal usul yang sama dengan anjing luar negeri dari keluarga Canis lupus melalui bukti pengurutan DNA dan penyelidikan genetika. </string>
+    <string name="deskripsi15">Harimau adalah spesies kucing terbesar yang masih hidup dari genus Panthera. Harimau memiliki ciri loreng yang khas pada bulunya, berupa garis-garis vertikal gelap pada bulu oranye, dengan bulu bagian bawah berwarna putih. Harimau adalah pemangsa puncak, mereka terutama memangsa ungulata seperti rusa dan babi celeng.</string>
+    <string name="deskripsi16">Elang adalah salah satu dari hewan yang terdapat di seluruh Indonesia. Dalam Bahasa inggris, eagle atau elang merujuk pada burung pemangsa berukuran besar dari suku Accipitridae terutama genus Aquila. Sementara itu burung-burung pemangsa yang lebih kecil dalam Daftar Burung Indonesia nomor 2 disebut Elang-alap.</string>
+    <string name="deskripsi17">Buaya adalah reptil bertubuh besar yang hidup di air. Secara ilmiah, buaya meliputi seluruh spesies anggota suku Crocodylidae, termasuk pula buaya sepit. Meski demikian nama ini dapat pula dikenakan secara longgar untuk menyebut ‘buaya’ aligator, kaiman dan gavial; yakni kerabat-kerabat buaya yang berlainan suku.</string>
+    <string name="deskripsi18">Ular adalah kelompok reptilia tidak berkaki dan bertubuh panjang yang tersebar luas di dunia. Secara ilmiah, semua jenis ular dikelompokkan dalam satu sub-ordo, yaitu Serpentes dan juga merupakan anggota dari ordo Squamata bersama dengan kadal.</string>
+    <string name="deskripsi19">Singa adalah spesies hewan dari keluarga felidae atau jenis kucing. Singa berada di benua Afrika dan sebagian di wilayah India. Singa merupakan hewan yang hidup berkelompok. Biasanya terdiri dari seekor jantan &amp; banyak betina. Kelompok ini menjaga daerah kekuasaannya.</string>
+    <string name="deskripsi20">Komodo atau lengkapnya biawak komodo, adalah spesies biawak besar yang terdapat di Pulau Komodo, Rinca, Flores, Gili Motang, dan Gili Dasami di Provinsi Nusa Tenggara Timur, Indonesia. Biawak ini oleh penduduk asli pulau Komodo juga disebut dengan nama setempat ora.</string>
+    <string name="deskripsi21">Ayam adalah unggas yang biasa dipelihara orang untuk dimanfaatkan untuk keperluan hidup pemeliharanya. Ayam peliharaan merupakan keturunan langsung dari salah satu subspesies ayam hutan yang dikenal sebagai ayam hutan merah atau ayam bangkiwa. Semua ayam merupakan theropoda seperti tyrannosaurus.</string>
+    <string name="deskripsi22">Bebek atau itik adalah nama umum untuk beberapa spesies burung dalam famili Anatidae. Bebek umumnya adalah burung akuatik yang sebagian besar berukuran lebih kecil dibandingkan kerabatnya, angsa dan angsa berleher pendek, dan dapat ditemukan pada perairan air tawar maupun air laut.</string>
+    <string name="deskripsi23">Babi adalah sejenis hewan ungulata yang bermoncong panjang dan berhidung lemper dan merupakan hewan yang aslinya berasal dari Eurasia. Babi merupakan omnivora yang berarti mereka mengonsumsi daging maupun tumbuh-tumbuhan.</string>
+    <string name="deskripsi24">Tikus adalah salah satu famili hewan pengerat dari ordo Rodentia. Spesies tikus yang paling dikenal adalah mencit serta tikus got yang ditemukan hampir di semua negara dan merupakan suatu organisme model yang penting dalam biologi; juga merupakan hewan peliharaan yang populer. </string>
+    <string name="deskripsi25">Tupai adalah segolongan mamalia kecil yang mirip, dan kerap dikelirukan, dengan bajing. Secara ilmiah, tupai tidak sama dan jauh kekerabatannya dari keluarga bajing.</string>
+    <string name="deskripsi26">Monyet adalah istilah untuk semua anggota primata yang bukan prosimia atau kera, baik yang tinggal di Dunia Lama maupun Dunia Baru. Hingga saat ini dikenal 264 jenis monyet yang hidup di dunia. Tidak seperti kera, monyet biasanya berekor dan berukuran lebih kecil.</string>
+    <string name="deskripsi27">Kura-kura adalah hewan bersisik berkaki empat yang termasuk golongan reptil. Bangsa hewan yang disebut Testudines ini khas dan mudah dikenali dengan adanya ‘rumah’ atau batok yang keras dan kaku. Batok kura-kura ini terdiri dari dua bagian.</string>
+    <string name="deskripsi28">Landak adalah hewan pengerat yang memiliki rambut yang tebal dan berbentuk duri tajam. Hewan ini ditemukan di Asia, Afrika, maupun Amerika, dan cenderung menyebar di kawasan tropika. Landak merupakan hewan pengerat terbesar ketiga dari segi ukuran tubuh, setelah kapibara dan berang-berang.</string>
+    <string name="deskripsi29">Sigung adalah binatang mamalia yang memiliki bulu berwarna hitam dan putih. Sigung termasuk golongan binatang penyendiri yang mencari mangsa pada malam hari. Pada pagi hingga petang, sigung lebih suka bersembunyi dalam tempat gelap seperti gua. Habitatnya di hutan-hutan sekunder pada ketinggian hingga 2000 mdpl.</string>
+    <string name="deskripsi30">Kelelawar adalah satu-satunya mamalia yang dapat terbang, dan berasal dari ordo Chiroptera dengan kedua kaki depan yang berkembang menjadi sayap.</string>
+
+    <string name="welcome">Selamat Datang di Aplikasi Daftar Hewan</string>
+    <string name="label_hewan">Detail Hewan</string>
+</resources>
